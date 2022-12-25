@@ -31,3 +31,6 @@ system/
 
 # Space Invaders #
 *.dat
+
+# gradle projects #
+/.gradle/
